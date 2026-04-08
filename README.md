@@ -1,2 +1,2 @@
-# Lead_code_c
+# Leetcode
 the algorithms c learned
