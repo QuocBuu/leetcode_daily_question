@@ -8,12 +8,10 @@ int minimumDistance(int* nums, int numsSize) {
     int ret = INT_MAX;
     for (int i = 1; i < 101; i++) {
         if (array[i] >= 3) {
-            printf("i= %d\n", i);
             int b0 = -1, b1 = -1, b2 = -1;
             int k = 0;
             while (array[i] != 0) {
                 if (nums[k] == i) {
-                    printf("k = %d\n", k);
                     b2 = b1;
                     b1 = b0;
                     b0 = k;
