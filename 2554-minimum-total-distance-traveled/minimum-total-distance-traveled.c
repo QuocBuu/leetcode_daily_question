@@ -5,26 +5,14 @@ typedef struct {
     int idx;
 } Pair;
 
-int cmp_robot(const void* a, const void* b) {
-    int valA = *(const int*)a;
-    int valB = *(const int*)b;
-    if (valA < valB) {
-        return -1;
-    } else if (valA > valB) {
-        return 1;
-    }
-    return 0;
+int cmp_robot (const void *a, const void *b) {
+    return (*(int*)a - *(int*)b);
 }
 
-int cmp_factory(const void* a, const void* b) {
-    int* factA = *(int**)a;
-    int* factB = *(int**)b;
-    if (factA[0] < factB[0]) {
-        return -1;
-    } else if (factA[0] > factB[0]) {
-        return 1;
-    }
-    return 0;
+int cmp_factory (const void *a, const void *b) {
+    int *fA = *(int**)a;
+    int *fB = *(int**)b;
+    return fA[0] - fB[0];
 }
 
 long long minimumTotalDistance(int* robot, int robotSize, int** factory, int factorySize, int* factoryColSize) {
@@ -60,7 +48,7 @@ long long minimumTotalDistance(int* robot, int robotSize, int** factory, int fac
             if (diff < 0) {
                 diff = -diff;
             }
-            b2[j+1] = b2[j] + diff;
+            b2[j+1] = b2[j] + diff; 
         }
 
         int head = 0;
