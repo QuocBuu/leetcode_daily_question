@@ -6,5 +6,5 @@ int mirrorDistance(int n) {
         k /= 10;
     }
 
-    return m > n ? (m - n) : (n - m);
+    return abs(m - n);
 }
