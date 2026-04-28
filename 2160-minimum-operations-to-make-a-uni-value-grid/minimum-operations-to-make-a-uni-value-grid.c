@@ -9,8 +9,13 @@ int minOperations(int** grid, int gridSize, int* gridColSize, int x) {
     //     return -1;
     // }
     int k = 0;
+    int diff = grid[0][0] % x;
     for (int i = 0; i < gridSize; i++) {
         for (int j = 0; j < gridColSize[0]; j++) {
+            if (grid[i][j] % x != diff) {
+                free(array);
+                return -1;
+            }
             array[k++] = grid[i][j];
         }
     }
@@ -19,15 +24,8 @@ int minOperations(int** grid, int gridSize, int* gridColSize, int x) {
 
     int equalValue = array[len/2];
     int ret = 0;
-    int diff = equalValue % x;
     for (int i = 0; i < len; i++) {
-        if (array[i] % x != diff) {
-            free(array);
-            return -1;
-        }
-        else {
-            ret += abs(array[i] - equalValue) / x;
-        }
+        ret += abs(array[i] - equalValue) / x;
     }
 
     free(array);
