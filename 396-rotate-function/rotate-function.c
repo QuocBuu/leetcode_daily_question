@@ -4,13 +4,13 @@ int maxRotateFunction(int* nums, int numsSize) {
 
     for (int i = 0; i < numsSize; i++) {
         sum += nums[i];
-        R += (int)i * nums[i];
+        R += i * nums[i];
     }
 
     int maxVal = R;
 
     for (int k = 1; k < numsSize; k++) {
-        R = R + sum - (int)numsSize * nums[numsSize - k];
+        R = R + sum - numsSize * nums[numsSize - k];
         if (R > maxVal) {
             maxVal = R;
         }
