@@ -18,15 +18,14 @@ struct ListNode* rotateRight(struct ListNode* head, int k) {
         size++;
     }
 
-    if (k % size == 0) {
+    k = k % size;
+    if (k == 0) {
         return head;
     }
 
-    int counter = size - (k % size) - 1;
-
     tail->next = head;
     tail = head;
-    while (counter--) {
+    while (++k < size) {
         tail = tail->next;
     }
 
