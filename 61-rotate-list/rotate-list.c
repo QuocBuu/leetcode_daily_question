@@ -6,11 +6,7 @@
  * };
  */
 struct ListNode* rotateRight(struct ListNode* head, int k) {
-    if (head == NULL) {
-        return head;
-    }
-
-    if (head->next == NULL) {
+    if (head == NULL || head->next == NULL || k == 0) {
         return head;
     }
     
@@ -28,14 +24,14 @@ struct ListNode* rotateRight(struct ListNode* head, int k) {
 
     int counter = size - (k % size) - 1;
 
-    struct ListNode* tail2 = head;
+    tail->next = head;
+    tail = head;
     while (counter--) {
-        tail2 = tail2->next;
+        tail = tail->next;
     }
 
-    tail->next = head;
-    head = tail2->next;
-    tail2->next = NULL;
+    head = tail->next;
+    tail->next = NULL;
     
     return head;
 }
