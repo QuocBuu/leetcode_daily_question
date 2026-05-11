@@ -22,4 +22,8 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0194-transpose-file](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0194-transpose-file/) | Medium |
 <!---LeetCode Topics End-->
