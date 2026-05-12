@@ -9,11 +9,9 @@ int minimumEffort(int** tasks, int tasksSize, int* tasksColSize) {
     int ret = 0;
     for (int i = 0; i < tasksSize; i++) {
         // printf("%d\n", tasks[i][1]);
-        if ((ret + tasks[i][0]) < tasks[i][1]) {
+        ret += tasks[i][0];
+        if (ret < tasks[i][1]) {
             ret = tasks[i][1];
-        }
-        else {
-            ret += tasks[i][0];
         }
     }
 
