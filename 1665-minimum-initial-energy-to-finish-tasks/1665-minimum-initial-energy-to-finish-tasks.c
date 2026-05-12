@@ -4,9 +4,6 @@ int cmp (const void* a, const void* b) {
     return (arr1[1] - arr1[0]) - (arr2[1] - arr2[0]);
 }
 int minimumEffort(int** tasks, int tasksSize, int* tasksColSize) {
-    int m = tasksSize;
-    int n = tasksColSize[0];
-
     qsort(tasks, tasksSize, sizeof(int*), cmp);
 
     int ret = 0;
