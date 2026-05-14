@@ -11,6 +11,7 @@ the algorithms c learned
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,10 +37,12 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
