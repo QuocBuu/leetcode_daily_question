@@ -11,9 +11,9 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Si
 
     qsort(array, nums1Size + nums2Size, sizeof(int), cmp);
 
-    for (int i = 0; i < size; i++) {
-        printf("%d - %d\n", array[i], size);
-    }
+    // for (int i = 0; i < size; i++) {
+    //     printf("%d - %d\n", array[i], size);
+    // }
 
     int halfSize = size/2; 
     if (size % 2 == 0) {
