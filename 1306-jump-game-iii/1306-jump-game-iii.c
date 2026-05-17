@@ -1,3 +1,4 @@
+#pragma optimize("O3, unroll-loops")
 bool canReach(int* arr, int arrSize, int start) {
     int *array = malloc(arrSize * sizeof(int));
     memset(array, 0, arrSize * sizeof(int));
