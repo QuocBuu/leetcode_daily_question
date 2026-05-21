@@ -1,5 +1,6 @@
 
-#pragma optimize("O3, unroll-loops")
+#pragma GCC optimize("O3,unroll-loops")
+
 int cmp (const void* a, const void* b) {
     return *(int*)a - *(int*)b;
 }
