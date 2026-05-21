@@ -1,3 +1,5 @@
+
+#pragma optimize("O3, unroll-loops")
 int cmp (const void* a, const void* b) {
     return *(int*)a - *(int*)b;
 }
@@ -34,5 +36,6 @@ int longestCommonPrefix(int* arr1, int arr1Size, int* arr2, int arr2Size) {
         }
     }
 
+    free(array);
     return ret;
 }
