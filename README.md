@@ -14,6 +14,7 @@ the algorithms c learned
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
