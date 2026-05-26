@@ -116,4 +116,12 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
