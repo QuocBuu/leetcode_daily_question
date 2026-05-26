@@ -55,6 +55,7 @@ the algorithms c learned
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
@@ -99,6 +100,7 @@ the algorithms c learned
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -110,4 +112,8 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
