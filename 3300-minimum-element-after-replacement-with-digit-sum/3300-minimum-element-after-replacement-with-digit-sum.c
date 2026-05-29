@@ -1,3 +1,4 @@
+#pragma GCC optimize("Os")
 int minElement(int* nums, int numsSize) {
     int ret = INT_MAX;
     for (int i = 0; i < numsSize; i++) {
