@@ -29,6 +29,7 @@ the algorithms c learned
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ the algorithms c learned
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ the algorithms c learned
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +92,7 @@ the algorithms c learned
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +110,7 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
