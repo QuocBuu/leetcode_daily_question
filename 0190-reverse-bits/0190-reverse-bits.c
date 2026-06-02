@@ -1,11 +1,12 @@
+#define BIT (1)
 int reverseBits(int n) {
     int ret = 0;
     for (int i = 0; i < 31; i++) {
-        if (n & 1) {
-            ret += 1;
+        if (n & BIT) {
+            ret += BIT;
         }
-        n >>= 1;
-        ret <<= 1;
+        n >>= BIT;
+        ret <<= BIT;
     }
     return ret;
 }
