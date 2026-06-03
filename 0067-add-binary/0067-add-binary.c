@@ -42,10 +42,9 @@ char* addBinary(char* a, char* b) {
     }
     else {
         size_t size = strlen(ret);
-        char *ret2 = malloc(size);
-        memcpy(ret2, ret + 1, size);
-        free(ret);
-        return ret2;
+        for (int i = 0; i < size; i++) {
+            ret[i] = ret[i+1];
+        }
     }
     return ret;
 }
