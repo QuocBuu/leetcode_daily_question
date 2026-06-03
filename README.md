@@ -29,6 +29,7 @@ the algorithms c learned
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ the algorithms c learned
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
