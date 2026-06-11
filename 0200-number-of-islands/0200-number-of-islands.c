@@ -1,27 +1,21 @@
-void markLand (char** grid, int m, int n, int x, int y) {
+void markLand(char** grid, int m, int n, int x, int y) {
+    if (x < 0 || y < 0 || x >= m || y >= n) {
+        return;
+    }
+
+    if (grid[x][y] != '1') {
+        return;
+    }
+
     grid[x][y] = 'a';
 
-    if (x > 0) {
-        if (grid[x-1][y] == '1') {
-            markLand(grid, m, n, x-1, y);
-        }
-    }
-    if (x < m-1) {
-        if (grid[x+1][y] == '1') {
-            markLand(grid, m, n, x+1, y);
-        }
-    }
+    markLand(grid, m, n, x - 1, y);
 
-    if (y > 0) {
-        if (grid[x][y-1] == '1') {
-            markLand(grid, m, n, x, y-1);
-        }
-    }
-    if (y < n-1) {
-        if (grid[x][y+1] == '1') {
-            markLand(grid, m, n, x, y+1);
-        }
-    }
+    markLand(grid, m, n, x + 1, y);
+
+    markLand(grid, m, n, x, y - 1);
+
+    markLand(grid, m, n, x, y + 1);
 }
 
 int numIslands(char** grid, int gridSize, int* gridColSize) {
