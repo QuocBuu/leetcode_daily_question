@@ -29,6 +29,7 @@ the algorithms c learned
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
@@ -84,6 +85,7 @@ the algorithms c learned
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
@@ -205,6 +207,7 @@ the algorithms c learned
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
