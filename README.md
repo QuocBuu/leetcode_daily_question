@@ -150,6 +150,7 @@ the algorithms c learned
 | ------- | ------- |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0190-reverse-bits/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
