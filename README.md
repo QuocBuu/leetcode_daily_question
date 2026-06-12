@@ -34,6 +34,7 @@ the algorithms c learned
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -44,6 +45,7 @@ the algorithms c learned
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Simulation
@@ -127,6 +129,7 @@ the algorithms c learned
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +151,7 @@ the algorithms c learned
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0190-reverse-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +179,7 @@ the algorithms c learned
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Linked List
@@ -208,6 +213,7 @@ the algorithms c learned
 | [0104-maximum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
