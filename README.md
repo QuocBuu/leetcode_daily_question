@@ -157,6 +157,7 @@ the algorithms c learned
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
