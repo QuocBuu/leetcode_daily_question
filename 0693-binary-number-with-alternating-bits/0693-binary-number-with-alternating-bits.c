@@ -4,7 +4,7 @@ bool hasAlternatingBits(int n) {
     while (n) {
         printf("%d", k);
         n >>= MARK;
-        if ((n & MARK) - k == 0) {
+        if (!((n & MARK) - k)) {
             return false;
         }
         k = n & MARK;
