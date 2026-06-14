@@ -20,9 +20,8 @@ void dfs(struct TreeNode* root, int* arr, int *size) {
 }
 
 int* inorderTraversal(struct TreeNode* root, int* returnSize) {
-    int *ret = (int*) malloc(sizeof(int)*101);
+    int *ret = (int*) malloc(sizeof(int)*100);
     *returnSize = 0;
     dfs(root, ret, returnSize);
-
     return ret;
 }
