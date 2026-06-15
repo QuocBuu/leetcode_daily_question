@@ -132,6 +132,7 @@ the algorithms c learned
 | [0100-same-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
@@ -143,6 +144,7 @@ the algorithms c learned
 | [0100-same-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
@@ -232,6 +234,7 @@ the algorithms c learned
 | [0100-same-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -242,6 +245,7 @@ the algorithms c learned
 | [0100-same-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
