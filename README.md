@@ -142,6 +142,7 @@ the algorithms c learned
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -179,6 +180,7 @@ the algorithms c learned
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
+| [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
@@ -249,6 +251,7 @@ the algorithms c learned
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -264,6 +267,7 @@ the algorithms c learned
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +279,8 @@ the algorithms c learned
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
