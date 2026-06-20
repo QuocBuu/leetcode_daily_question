@@ -19,6 +19,7 @@ the algorithms c learned
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
@@ -85,6 +86,7 @@ the algorithms c learned
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -205,6 +207,7 @@ the algorithms c learned
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
+| [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
