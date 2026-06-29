@@ -23,6 +23,7 @@ the algorithms c learned
 | [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -207,6 +208,7 @@ the algorithms c learned
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
