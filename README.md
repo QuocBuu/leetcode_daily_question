@@ -34,6 +34,7 @@ the algorithms c learned
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -75,6 +76,7 @@ the algorithms c learned
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ the algorithms c learned
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -182,6 +185,7 @@ the algorithms c learned
 | [0226-invert-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0226-invert-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +274,7 @@ the algorithms c learned
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -305,6 +310,7 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
