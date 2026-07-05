@@ -12,6 +12,7 @@ the algorithms c learned
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
@@ -54,6 +55,7 @@ the algorithms c learned
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -76,6 +78,7 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
