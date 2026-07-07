@@ -4,36 +4,22 @@ char* convert(char* s, int numRows) {
     if (numRows == 1 || numRows >= n) {
         return s;
     }
-    int *cnt = calloc(numRows, sizeof(int));
-    char **arr = malloc(sizeof(char*) * numRows);
-    for (int i = 0; i < numRows; i++) {
-        arr[i] = malloc(sizeof(char) * n);
-    }
+    
+    char* ret = malloc(n+1);
+    ret[n] = '\0';
+    int idx = 0;
+    int cnt = 2* numRows - 2;
 
-    bool check = false;
-    int k = 0;
-    for (int i = 0; i < n; i++) {            
-        arr[k][cnt[k]] = s[i];
-        cnt[k]++;
-        
-        if (k == 0) {
-            check = true;
+    for (int row = 0; row < numRows; row++) {
+        for (int i = row; i < n; i += cnt) {
+            // printf("%c - %d\n", s[i], i);
+            ret[idx++] = s[i];
+            int mid = i + cnt - 2*row;
+            if (row != 0 && row != numRows - 1 && mid < n) {
+                // printf("%c - %d\n", s[i], mid);
+                ret[idx++] = s[mid];
+            }
         }
-        if (k == (numRows - 1)) {
-            check = false;
-        }
-
-        k += check ? 1 : -1;
-    }
-
-    int sum = 0;
-    for (int i = 0; i < numRows; i++) {
-        memcpy(s+sum, arr[i], cnt[i]);
-        sum += cnt[i];
-        free(arr[i]);
-    }
-    free(arr);
-    free(cnt);
-
-    return s;
+    } 
+    return ret;
 }
