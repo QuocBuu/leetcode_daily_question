@@ -216,6 +216,7 @@ the algorithms c learned
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
