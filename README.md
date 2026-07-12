@@ -224,6 +224,7 @@ the algorithms c learned
 | ------- | ------- |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0190-reverse-bits/) | Easy |
+| [0401-binary-watch](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0401-binary-watch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -353,6 +354,7 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0401-binary-watch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
