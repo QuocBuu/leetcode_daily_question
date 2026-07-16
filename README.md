@@ -56,6 +56,7 @@ the algorithms c learned
 | [3737-count-subarrays-with-majority-element-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ the algorithms c learned
 | [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ the algorithms c learned
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@ the algorithms c learned
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +277,7 @@ the algorithms c learned
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,4 +389,5 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
