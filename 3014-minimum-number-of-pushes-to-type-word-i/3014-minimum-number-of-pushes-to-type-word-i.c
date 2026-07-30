@@ -20,7 +20,7 @@ int minimumPushes(char* word) {
         if (arr[i] == 0) {
             break;
         }
-        printf("%d - %d - %c\n", ret, cnt, i + 'a');
+        // printf("%d - %d - %c\n", ret, cnt, i + 'a');
     }
 
     return ret;
