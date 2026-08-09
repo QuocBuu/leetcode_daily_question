@@ -13,6 +13,7 @@ the algorithms c learned
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -67,6 +68,7 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
@@ -165,6 +167,7 @@ the algorithms c learned
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1871-jump-game-vii/) | Medium |
@@ -293,6 +296,7 @@ the algorithms c learned
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -426,13 +430,16 @@ the algorithms c learned
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
