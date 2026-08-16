@@ -65,6 +65,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -147,6 +148,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -343,6 +345,7 @@
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -446,6 +449,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -478,22 +482,26 @@
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
