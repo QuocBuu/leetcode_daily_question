@@ -53,6 +53,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -146,6 +147,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -191,6 +193,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -295,6 +298,7 @@
 | [0190-reverse-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0190-reverse-bits/) | Easy |
 | [0401-binary-watch](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0401-binary-watch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
