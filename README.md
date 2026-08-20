@@ -82,6 +82,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -127,6 +128,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3838-weighted-word-mapping/) | Easy |
