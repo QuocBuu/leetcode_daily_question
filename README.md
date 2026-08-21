@@ -84,6 +84,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -233,6 +234,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -302,6 +304,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -355,6 +358,7 @@
 | [1840-maximum-building-height](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1840-maximum-building-height/) | Hard |
 | [2029-stone-game-ix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -481,6 +485,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Game Theory
@@ -518,4 +523,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
