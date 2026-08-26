@@ -6,7 +6,6 @@ int missingMultiple(int* nums, int numsSize, int k) {
     qsort(nums, numsSize, sizeof(int), cmp);
     int val = k;
     for (int i = 0; i < numsSize; i++) {
-        // printf("%d-", nums[i]);
         if (nums[i] < val) {
             continue;
         }
