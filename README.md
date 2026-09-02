@@ -104,6 +104,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +385,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
