@@ -88,6 +88,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -218,6 +219,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -409,6 +411,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +431,7 @@
 | [1291-sequential-digits](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1291-sequential-digits/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
