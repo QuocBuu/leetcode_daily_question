@@ -41,6 +41,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
+| [0835-image-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1260-shift-2d-grid/) | Easy |
@@ -144,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
+| [0835-image-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
