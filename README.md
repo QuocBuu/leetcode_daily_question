@@ -379,6 +379,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
+| [0836-rectangle-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
@@ -577,4 +578,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
