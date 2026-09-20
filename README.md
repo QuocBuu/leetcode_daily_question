@@ -114,6 +114,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
@@ -321,6 +322,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -347,6 +349,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
@@ -603,4 +606,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
