@@ -405,6 +405,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0836-rectangle-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0836-rectangle-overlap/) | Easy |
