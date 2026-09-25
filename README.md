@@ -192,6 +192,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
@@ -218,6 +219,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
@@ -320,6 +322,7 @@
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0226-invert-binary-tree/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -363,6 +366,7 @@
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -531,12 +535,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0401-binary-watch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
