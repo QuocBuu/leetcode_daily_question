@@ -372,6 +372,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -539,6 +540,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -633,4 +635,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
