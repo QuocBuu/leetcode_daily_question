@@ -34,6 +34,10 @@ bool hasValidPath(char** grid, int gridSize, int* gridColSize) {
     m = gridSize;
     n = gridColSize[0];
     int max = m + n + 1;
+
+    if (max % 2 != 0) {
+        return false;
+    }
     // printf("m: %d - n: %d\n", m, n);
     
     int*** hardMap = malloc(sizeof(int**) * m);
