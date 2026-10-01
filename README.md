@@ -368,6 +368,7 @@
 | [0005-longest-palindromic-substring](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -539,6 +540,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -641,6 +643,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
