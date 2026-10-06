@@ -174,6 +174,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -372,6 +373,7 @@
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [0856-score-of-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -546,6 +548,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0856-score-of-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -647,6 +650,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
