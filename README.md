@@ -328,6 +328,7 @@
 | [0112-path-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
@@ -372,6 +373,7 @@
 | [0020-valid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0067-add-binary/) | Easy |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -556,6 +558,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0401-binary-watch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Counting Sort
