@@ -122,6 +122,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
@@ -149,6 +150,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +386,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
