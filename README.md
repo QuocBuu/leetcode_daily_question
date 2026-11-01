@@ -432,6 +432,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +534,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -621,10 +623,12 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
