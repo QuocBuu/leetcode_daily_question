@@ -103,6 +103,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -146,6 +147,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -271,6 +273,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -454,6 +457,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +480,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -540,6 +545,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Tree
