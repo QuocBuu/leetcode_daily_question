@@ -94,6 +94,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -151,6 +152,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -243,6 +245,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
