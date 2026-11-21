@@ -103,6 +103,7 @@
 | [3161-block-placement-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -281,6 +282,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -357,6 +359,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -445,6 +448,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -577,6 +581,7 @@
 | [0257-binary-tree-paths](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0257-binary-tree-paths/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
