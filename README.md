@@ -53,6 +53,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
@@ -298,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -485,6 +487,7 @@
 | [0836-rectangle-overlap](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1510-stone-game-iv/) | Hard |
@@ -730,4 +733,12 @@
 | [1021-remove-outermost-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/QuocBuu/leetcode_daily_question/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
