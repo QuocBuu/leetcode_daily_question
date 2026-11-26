@@ -174,6 +174,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3360-stone-removal-game/) | Easy |
 | [3379-transformed-array](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -499,6 +500,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3360-stone-removal-game/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3525-find-x-value-of-array-ii/) | Hard |
