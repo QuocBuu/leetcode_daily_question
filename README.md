@@ -136,6 +136,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +572,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/QuocBuu/leetcode_daily_question/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
